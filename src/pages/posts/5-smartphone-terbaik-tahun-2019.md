@@ -2,6 +2,12 @@
 title: '5 Smartphone Terbaik tahun 2019 '
 subtitle: ''
 date: 2019-12-12T03:21:47.073Z
+thumb_img_path: /images/laptop-and-handphone-with-circuit-board-background_1970904.jpg
+excerpt: >-
+  Hi sobat Lexers, Kalian pasti saat beli Handphone bingung untuk membeli merk
+  apa, tipe seperti apa. 5 Smartphone terbaik menurut Bung Alex ini bisa
+  memberikan kalian arahan untuk membeli agar tidak salah pilih.. Check it out
+  aja disini langsung,
 hide_header: false
 template: post
 ---
