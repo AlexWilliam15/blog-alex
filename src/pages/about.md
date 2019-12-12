@@ -12,4 +12,4 @@ template: page
 
 Keinginannya untuk menjelajah sebagai seorang _traveller_ Indonesia, membuatnya tertarik untuk selalu ikut dalam setiap tour ke berbagai macam Pulau. Destinasi selanjutnya yang ingin di datangi adalah Raja Ampat di pulau Papua.
 
-"I love beach, i love mountain, let's go!!!" -_Alex William Chandra-_
+"I love beach, i love mountain, let's go!!!" -[_Alex William Chandra_](https://www.instagram.com/alexwilliam15/)_\-_
